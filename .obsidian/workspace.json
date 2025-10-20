@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "events/coollab-beginner-workshop.md",
+                "file": "events/chris-speed-talk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "coollab-beginner-workshop"
+              "title": "chris-speed-talk"
             }
           }
         ],
@@ -186,8 +186,13 @@
   },
   "active": "73bb44d30df551b0",
   "lastOpenFiles": [
-    "events/ethical-ai-for-music-creation.md",
+    "events/ai-buddhism.md",
+    "events/chris-speed-talk.md",
+    "artworks",
+    "software",
+    "topics/peckham-digital.md",
     "events/coollab-beginner-workshop.md",
+    "events/ethical-ai-for-music-creation.md",
     "templates/event-notes.md",
     "events/intro-to-quantum-computing-for-creatives.md",
     "events/intro-to-glitch-art.md",
@@ -198,7 +203,6 @@
     "topics/generative.md",
     "topics/node-based.md",
     "topics/software.md",
-    "topics/peckham-digital.md",
     "topics/hacking.md",
     "topics/glitch-art.md",
     "topics",
