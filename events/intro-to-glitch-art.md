@@ -1,13 +1,13 @@
 Introduction to Glitch Art
 by Benjamin Sammo
 
-IG: https://www.instagram.com/sammo_77/
-## Summary
+October 19th 2025
+## Notes
 
 ## Links
-
+Benjamin Sammo's IG: IG: https://www.instagram.com/sammo_77/
 ## Tags
 
-#glitchart
-#glitch
-#hacking
+[[glitch-art]]
+[[hacking]]
+[[peckham-digital]]
